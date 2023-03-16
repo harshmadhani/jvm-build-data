@@ -1,0 +1,6 @@
+---
+type: "git"
+uri: "https://github.com/flyway/flyway.git"
+tagMapping:
+  - pattern: 9.15.1
+    tag: flyway-9.15.1
